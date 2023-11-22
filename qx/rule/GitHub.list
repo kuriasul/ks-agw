@@ -1,0 +1,39 @@
+# NAME: GitHub
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-10-07 14:17:48
+# HOST: 1
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 29
+# TOTAL: 31
+HOST,github-cloud.s3.amazonaws.com,国外网站
+HOST-SUFFIX,atom.io,国外网站
+HOST-SUFFIX,dependabot.com,国外网站
+HOST-SUFFIX,ghcr.io,国外网站
+HOST-SUFFIX,git.io,国外网站
+HOST-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net,国外网站
+HOST-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com,国外网站
+HOST-SUFFIX,github-cloud.s3.amazonaws.com,国外网站
+HOST-SUFFIX,github.blog,国外网站
+HOST-SUFFIX,github.com,国外网站
+HOST-SUFFIX,github.community,国外网站
+HOST-SUFFIX,github.dev,国外网站
+HOST-SUFFIX,github.io,国外网站
+HOST-SUFFIX,githubapp.com,国外网站
+HOST-SUFFIX,githubassets.com,国外网站
+HOST-SUFFIX,githubhackathon.com,国外网站
+HOST-SUFFIX,githubnext.com,国外网站
+HOST-SUFFIX,githubpreview.dev,国外网站
+HOST-SUFFIX,githubstatus.com,国外网站
+HOST-SUFFIX,githubuniverse.com,国外网站
+HOST-SUFFIX,githubusercontent.com,国外网站
+HOST-SUFFIX,myoctocat.com,国外网站
+HOST-SUFFIX,npm.community,国外网站
+HOST-SUFFIX,npmjs.com,国外网站
+HOST-SUFFIX,npmjs.org,国外网站
+HOST-SUFFIX,opensource.guide,国外网站
+HOST-SUFFIX,rawgit.com,国外网站
+HOST-SUFFIX,rawgithub.com,国外网站
+HOST-SUFFIX,repo.new,国外网站
+HOST-SUFFIX,thegithubshop.com,国外网站
+HOST-KEYWORD,github,国外网站

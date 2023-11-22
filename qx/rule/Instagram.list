@@ -1,0 +1,81 @@
+# NAME: Instagram
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-10-07 14:20:13
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 73
+# TOTAL: 74
+HOST-SUFFIX,achat-followers-instagram.com,国外网站
+HOST-SUFFIX,acheter-followers-instagram.com,国外网站
+HOST-SUFFIX,acheterdesfollowersinstagram.com,国外网站
+HOST-SUFFIX,acheterfollowersinstagram.com,国外网站
+HOST-SUFFIX,bookstagram.com,国外网站
+HOST-SUFFIX,carstagram.com,国外网站
+HOST-SUFFIX,cdninstagram.com,国外网站
+HOST-SUFFIX,chickstagram.com,国外网站
+HOST-SUFFIX,ig.me,国外网站
+HOST-SUFFIX,igcdn.com,国外网站
+HOST-SUFFIX,igsonar.com,国外网站
+HOST-SUFFIX,igtv.com,国外网站
+HOST-SUFFIX,imstagram.com,国外网站
+HOST-SUFFIX,imtagram.com,国外网站
+HOST-SUFFIX,instaadder.com,国外网站
+HOST-SUFFIX,instachecker.com,国外网站
+HOST-SUFFIX,instafallow.com,国外网站
+HOST-SUFFIX,instafollower.com,国外网站
+HOST-SUFFIX,instagainer.com,国外网站
+HOST-SUFFIX,instagda.com,国外网站
+HOST-SUFFIX,instagify.com,国外网站
+HOST-SUFFIX,instagmania.com,国外网站
+HOST-SUFFIX,instagor.com,国外网站
+HOST-SUFFIX,instagr.am,国外网站
+HOST-SUFFIX,instagram-brand.com,国外网站
+HOST-SUFFIX,instagram-engineering.com,国外网站
+HOST-SUFFIX,instagram-help.com,国外网站
+HOST-SUFFIX,instagram-press.com,国外网站
+HOST-SUFFIX,instagram-press.net,国外网站
+HOST-SUFFIX,instagram.com,国外网站
+HOST-SUFFIX,instagramci.com,国外网站
+HOST-SUFFIX,instagramcn.com,国外网站
+HOST-SUFFIX,instagramdi.com,国外网站
+HOST-SUFFIX,instagramhashtags.net,国外网站
+HOST-SUFFIX,instagramhilecim.com,国外网站
+HOST-SUFFIX,instagramhilesi.org,国外网站
+HOST-SUFFIX,instagramium.com,国外网站
+HOST-SUFFIX,instagramizlenme.com,国外网站
+HOST-SUFFIX,instagramkusu.com,国外网站
+HOST-SUFFIX,instagramlogin.com,国外网站
+HOST-SUFFIX,instagramm.com,国外网站
+HOST-SUFFIX,instagramn.com,国外网站
+HOST-SUFFIX,instagrampartners.com,国外网站
+HOST-SUFFIX,instagramphoto.com,国外网站
+HOST-SUFFIX,instagramq.com,国外网站
+HOST-SUFFIX,instagramsepeti.com,国外网站
+HOST-SUFFIX,instagramtakipcisatinal.net,国外网站
+HOST-SUFFIX,instagramtakiphilesi.com,国外网站
+HOST-SUFFIX,instagramtips.com,国外网站
+HOST-SUFFIX,instagramtr.com,国外网站
+HOST-SUFFIX,instagran.com,国外网站
+HOST-SUFFIX,instagranm.com,国外网站
+HOST-SUFFIX,instagrem.com,国外网站
+HOST-SUFFIX,instagrm.com,国外网站
+HOST-SUFFIX,instagtram.com,国外网站
+HOST-SUFFIX,instagy.com,国外网站
+HOST-SUFFIX,instamgram.com,国外网站
+HOST-SUFFIX,instangram.com,国外网站
+HOST-SUFFIX,instanttelegram.com,国外网站
+HOST-SUFFIX,instaplayer.net,国外网站
+HOST-SUFFIX,instastyle.tv,国外网站
+HOST-SUFFIX,instgram.com,国外网站
+HOST-SUFFIX,intagram.com,国外网站
+HOST-SUFFIX,intagrm.com,国外网站
+HOST-SUFFIX,intgram.com,国外网站
+HOST-SUFFIX,kingstagram.com,国外网站
+HOST-SUFFIX,lnstagram-help.com,国外网站
+HOST-SUFFIX,oninstagram.com,国外网站
+HOST-SUFFIX,online-instagram.com,国外网站
+HOST-SUFFIX,onlineinstagram.com,国外网站
+HOST-SUFFIX,theinstagramhack.com,国外网站
+HOST-SUFFIX,web-instagram.net,国外网站
+HOST-SUFFIX,wwwinstagram.com,国外网站
+HOST-KEYWORD,instagram,国外网站

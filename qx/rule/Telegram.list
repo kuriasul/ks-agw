@@ -1,0 +1,45 @@
+# NAME: Telegram
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-10-29 02:12:23
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 21
+# IP-ASN: 5
+# IP-CIDR: 4
+# IP6-CIDR: 4
+# TOTAL: 35
+HOST-SUFFIX,comments.app,国外网站
+HOST-SUFFIX,contest.com,国外网站
+HOST-SUFFIX,graph.org,国外网站
+HOST-SUFFIX,legra.ph,国外网站
+HOST-SUFFIX,mbrx.app,国外网站
+HOST-SUFFIX,quiz.directory,国外网站
+HOST-SUFFIX,stel.com,国外网站
+HOST-SUFFIX,t.me,国外网站
+HOST-SUFFIX,tdesktop.com,国外网站
+HOST-SUFFIX,telega.one,国外网站
+HOST-SUFFIX,telegra.ph,国外网站
+HOST-SUFFIX,telegram-cdn.org,国外网站
+HOST-SUFFIX,telegram.dog,国外网站
+HOST-SUFFIX,telegram.me,国外网站
+HOST-SUFFIX,telegram.org,国外网站
+HOST-SUFFIX,telegram.space,国外网站
+HOST-SUFFIX,telegramdownload.com,国外网站
+HOST-SUFFIX,telesco.pe,国外网站
+HOST-SUFFIX,tg.dev,国外网站
+HOST-SUFFIX,tx.me,国外网站
+HOST-SUFFIX,usercontent.dev,国外网站
+HOST-KEYWORD,nicegram,国外网站
+IP-CIDR,109.239.140.0/24,国外网站
+IP-CIDR,149.154.160.0/20,国外网站
+IP-CIDR,5.28.192.0/18,国外网站
+IP-CIDR,91.108.0.0/16,国外网站
+IP6-CIDR,2001:67c:4e8::/48,国外网站
+IP6-CIDR,2001:b28:f23c::/47,国外网站
+IP6-CIDR,2001:b28:f23f::/48,国外网站
+IP6-CIDR,2a0a:f280::/32,国外网站
+IP-ASN,211157,国外网站
+IP-ASN,44907,国外网站
+IP-ASN,59930,国外网站
+IP-ASN,62014,国外网站
+IP-ASN,62041,国外网站
