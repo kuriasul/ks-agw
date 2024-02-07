@@ -1,0 +1,14 @@
+# NAME: SelfAdd
+# AUTHOR: kuriasul
+# REPO: https://github.com/kuriasul/ks-agw
+# UPDATED: 2024-02-03 01:43:28
+# DOMAIN-SUFFIX: 1
+# DOMAIN-KEYWORD: 5
+# TOTAL: 6
+payload:
+  - DOMAIN-SUFFIX,matters.town
+  - DOMAIN-KEYWORD,quora
+  - DOMAIN-KEYWORD,reuters
+  - DOMAIN-KEYWORD,v2ex
+  - DOMAIN-KEYWORD,oldmantvg
+  - DOMAIN-KEYWORD,wikipedia
