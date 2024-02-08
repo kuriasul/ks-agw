@@ -7,6 +7,7 @@
 # TOTAL: 6
 payload:
   - DOMAIN-SUFFIX,matters.town
+  - DOMAIN-SUFFIX,medium.com
   - DOMAIN-KEYWORD,quora
   - DOMAIN-KEYWORD,reuters
   - DOMAIN-KEYWORD,v2ex
