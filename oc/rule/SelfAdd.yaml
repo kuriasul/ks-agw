@@ -8,6 +8,7 @@
 payload:
   - DOMAIN-SUFFIX,matters.town
   - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,1point3acres.com
   - DOMAIN-KEYWORD,quora
   - DOMAIN-KEYWORD,reuters
   - DOMAIN-KEYWORD,v2ex
