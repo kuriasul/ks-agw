@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,1point3acres.com
   - DOMAIN-SUFFIX,pixian.ai
   - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,docker.com
   - DOMAIN-KEYWORD,quora
   - DOMAIN-KEYWORD,reuters
   - DOMAIN-KEYWORD,v2ex
