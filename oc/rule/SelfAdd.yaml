@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,pixian.ai
   - DOMAIN-SUFFIX,pypi.org
   - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,elastic.co
   - DOMAIN-KEYWORD,quora
   - DOMAIN-KEYWORD,reuters
   - DOMAIN-KEYWORD,v2ex
