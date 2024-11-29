@@ -5,10 +5,10 @@
 # HOST: 3
 # HOST-SUFFIX: 4
 # TOTAL: 7
-HOST,d1q6f0aelx0por.cloudfront.net,Docker
-HOST,d2wy8f7a9ursnm.cloudfront.net,Docker
-HOST,d36jcksde1wxzq.cloudfront.net,Docker
-HOST-SUFFIX,compose-spec.io,Docker
-HOST-SUFFIX,docker.com,Docker
-HOST-SUFFIX,docker.io,Docker
-HOST-SUFFIX,dockerhub.com,Docker
+HOST,d1q6f0aelx0por.cloudfront.net,国外网站
+HOST,d2wy8f7a9ursnm.cloudfront.net,国外网站
+HOST,d36jcksde1wxzq.cloudfront.net,国外网站
+HOST-SUFFIX,compose-spec.io,国外网站
+HOST-SUFFIX,docker.com,国外网站
+HOST-SUFFIX,docker.io,国外网站
+HOST-SUFFIX,dockerhub.com,国外网站
