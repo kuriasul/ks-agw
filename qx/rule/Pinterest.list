@@ -1,0 +1,29 @@
+# NAME: Pinterest
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:16:54
+# DOMAIN-SUFFIX: 23
+# TOTAL: 23
+DOMAIN-SUFFIX,pinimg.com,Pinterest
+DOMAIN-SUFFIX,pinterest.at,Pinterest
+DOMAIN-SUFFIX,pinterest.ca,Pinterest
+DOMAIN-SUFFIX,pinterest.ch,Pinterest
+DOMAIN-SUFFIX,pinterest.cl,Pinterest
+DOMAIN-SUFFIX,pinterest.co.kr,Pinterest
+DOMAIN-SUFFIX,pinterest.co.uk,Pinterest
+DOMAIN-SUFFIX,pinterest.com,Pinterest
+DOMAIN-SUFFIX,pinterest.com.au,Pinterest
+DOMAIN-SUFFIX,pinterest.com.mx,Pinterest
+DOMAIN-SUFFIX,pinterest.de,Pinterest
+DOMAIN-SUFFIX,pinterest.dk,Pinterest
+DOMAIN-SUFFIX,pinterest.es,Pinterest
+DOMAIN-SUFFIX,pinterest.fr,Pinterest
+DOMAIN-SUFFIX,pinterest.ie,Pinterest
+DOMAIN-SUFFIX,pinterest.it,Pinterest
+DOMAIN-SUFFIX,pinterest.jp,Pinterest
+DOMAIN-SUFFIX,pinterest.nl,Pinterest
+DOMAIN-SUFFIX,pinterest.nz,Pinterest
+DOMAIN-SUFFIX,pinterest.ph,Pinterest
+DOMAIN-SUFFIX,pinterest.pt,Pinterest
+DOMAIN-SUFFIX,pinterest.ru,Pinterest
+DOMAIN-SUFFIX,pinterest.se,Pinterest
