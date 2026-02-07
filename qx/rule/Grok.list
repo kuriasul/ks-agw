@@ -1,0 +1,5 @@
+# Grok
+HOST-SUFFIX,x.ai,Grok
+HOST-SUFFIX,grok.com,Grok
+HOST-SUFFIX,x.com,Grok
+HOST-KEYWORD,grok,Grok
